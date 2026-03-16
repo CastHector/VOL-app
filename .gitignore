@@ -1,0 +1,12 @@
+﻿node_modules/
+.expo/
+dist/
+build/
+.env
+.env.local
+.DS_Store
+mobile/caches/
+mobile/.metro-virtual/
+mobile/.expo/
+mobile/node_modules/
+web/node_modules/
